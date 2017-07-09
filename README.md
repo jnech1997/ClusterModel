@@ -1,2 +1,2 @@
 # ClusterModel
-Visual Modeling of Cluster Formation
+Visual Modeling of Cluster Formation using OCaml GUI
